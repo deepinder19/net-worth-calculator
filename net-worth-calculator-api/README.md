@@ -18,3 +18,10 @@ To start the api:
 $ pipenv shell
 $ python run.py
 ```
+
+## Test
+
+To run the test cases:
+```
+$ pytest
+```
