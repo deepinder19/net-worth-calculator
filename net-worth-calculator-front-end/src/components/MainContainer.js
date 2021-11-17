@@ -334,8 +334,6 @@ export default class MainContainer extends React.Component {
             </div>
           </div>
         </div>
-        {/* TODO: remove */}
-        <button onClick={() => {console.log(this.state)}}>Test</button>
       </div>
     )
   }
